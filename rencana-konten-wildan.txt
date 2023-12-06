@@ -2,7 +2,9 @@ rencana konten wildan
 -belajar js
   * ES6
   * Framework javascript
+    <membaur lingkungan
 -membuat website kelas
 -belajar node js 
 -belajar php
+  <kurang tau 
 -belajar memahami masa depan
