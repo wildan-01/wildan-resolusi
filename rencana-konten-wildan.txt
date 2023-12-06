@@ -8,3 +8,4 @@ rencana konten wildan
 -belajar php
   <kurang tau 
 -belajar memahami masa depan
+<akankah yang disinggah akan tenang
